@@ -1,5 +1,5 @@
 var metaMarked = require('../lib/meta-marked.js');
-var marked = require('marked');
+var marked = require('kramed');
 var tape = require('tape');
 
 tape("meta-marked", function(t) {
